@@ -1,6 +1,7 @@
 # wsbackend
-<h1> Install python3 <h1>
-Install virtual environment and activate it.
+<h6> Install python3 <h6>
+  
+<h1> Install virtual environment and activate it. <h6>
 
 Using git clone, download this environment into your system.
 
