@@ -1,14 +1,14 @@
 # wsbackend
 <h6> Install python3 <h6>
   
-<h1> Install virtual environment and activate it. <h6>
+<h6> Install virtual environment and activate it. <h6>
 
 Using git clone, download this environment into your system.
 
-Run, SET FLASK_ENV=development ( In Windows )
+Run, <h6> SET FLASK_ENV=development </h6> ( In Windows )
 
 Before running below command ensure you create a database in your system and apply same configurations over below command
-Run, SET DATABASE_URL = postgres://username:password@host:port/dbname ( In Windows )
+Run, <h6> SET DATABASE_URL = postgres://username:password@host:port/dbname </h6> ( In Windows )
 
 Next Run, Below commands
 python manager.py db inint
