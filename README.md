@@ -1,4 +1,6 @@
-# wsbackend
+# wsbackend 
+<b>NOTE: Tested below steps on Windows System</b>
+
 <h6> Install python3 <h6>
   
 <h6> Install virtual environment and activate it. <h6>
