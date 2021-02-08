@@ -7,7 +7,7 @@ class Development(object):
     DEBUG = True
     TESTING = False
     JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY')
-    SQLALCHEMY_DATABASE_URI = os.getenv('SQLALCHEMY_DATABASE_URI') #EXAMPLE: 'postgresql://postgres:postgres123@localhost/dbname'
+    SQLALCHEMY_DATABASE_URI = os.getenv('SQLALCHEMY_DATABASE_URI') #EXAMPLE: 'postgresql://username:password@localhost/dbname'
     SQLALCHEMY_TRACK_MODIFICATIONS = True                  
     
 
