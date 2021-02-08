@@ -9,10 +9,10 @@ Using git clone, download this environment into your system.
 
 Run, <h6> SET FLASK_ENV=development </h6> 
 
-Before running below command ensure you create a database in your system and apply same configurations over below command
+Before running below command ensure you create a database_name in your system and apply same db configurations over below command
 Run, <h6> SET DATABASE_URL = postgres://username:password@host:port/dbname </h6>
 
-Next Run, Below commands
+Next Run, Below commands ( This commands creates tables in database and some migrations scripts in your workspace )
 <h6> python manager.py db inint
 
 python manager.py db migrate
