@@ -7,6 +7,8 @@
 
 Using git clone, download this environment into your system.
 
+Run, <h6> pip install -r requirements.txt </h6>
+
 Run, <h6> SET FLASK_ENV=development </h6> 
 
 Before running below command ensure you create a database_name in your system and apply same db configurations over below command
